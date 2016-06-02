@@ -1,2 +1,2 @@
 # QuizApp
-Designed for Reading Comprehension Practice
+Designed for Chinese Reading Comprehension Practice
